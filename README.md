@@ -1,3 +1,3 @@
-# Hello
+# Lunarlander
 
-This is my first c project!
+Thruster activity based on altitude
